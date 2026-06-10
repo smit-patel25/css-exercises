@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.check {
+    background-color: rgb(255, 179, 222);
+    font-family: Verdana, 'DejaVu Sans', sans-serif ;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
